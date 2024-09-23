@@ -1,0 +1,33 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Qiskit Fall Fest 2024
+    url: fallfest
+    weight: 10
+  - name: Ongoing Initiatives
+    url: tour
+    weight: 10
+  - name: Latest Updates
+    url: post
+    weight: 20
+  - name: Team
+    url: people
+    weight: 30
+  - name: Events
+    url: event
+    weight: 40
+  - name: Collaborative Works
+    weight: 50
+    hasChildren: true
+  - parent: Collaborative Works
+    name: Projects
+    url: project/
+  - parent: Collaborative Works
+    name: Publications
+    url: publication/
+  - name: Contact
+    url: contact
+    weight: 60

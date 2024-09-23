@@ -1,0 +1,37 @@
+name = "Quantum Computing Innovators Group"
+license = "MIT"
+licenselink = "https://github.com/ShisheerKaushik24/QCIG_iitj/blob/main/LICENSE.md"
+description = "The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form."
+homepage = ""
+demosite = "https://qcig-iitb.netlify.app"
+tags = ["academic",
+        "university",
+        "research",
+        "publications",
+        "widgets",
+        "portfolio",
+        "responsive",
+        "clean",
+        "company",
+        "blog",
+        "events",
+        "minimal",
+        "light",
+        "dark",
+        "multilingual",
+        "landing page",
+        "contact form",
+        "mobile",
+        "search",
+        "presentation",
+        "simple",
+        "minimalist",
+        "starter",
+        "modern",
+        "one page",
+        "customizable",
+        "technical",
+        "slide"
+        ]
+features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
+            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]

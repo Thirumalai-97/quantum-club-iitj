@@ -1,0 +1,20 @@
+# Theme metadata
+name = "sad"
+
+[dark]
+  # Primary
+  primary = "#3498db"  # Dodger Blue
+
+  # Menu
+  menu_primary = "#2c3e50"  # Midnight Blue
+  menu_text = "#ecf0f1"  # Frost White
+  menu_text_active = "#3498db"  # Dodger Blue
+  menu_title = "#ecf0f1"  # Frost White
+
+  # Backgrounds
+  home_section_odd = "#34495e"  # Wet Asphalt
+  home_section_even = "#2c3e50"  # Midnight Blue
+
+  # Links
+  link = "#3498db"  # Dodger Blue
+  link_hover = "#2980b9"  # Belize Hole
