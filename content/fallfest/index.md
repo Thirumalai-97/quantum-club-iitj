@@ -1,112 +1,86 @@
 ---
-title: "Qiskit Fall Fest 2024 in IIT Jodhpur"
-date: 2023-01-28
-authors:
-- Quantum Club IIT Jodhpur
-summary: .
-draft: false
-featured: true
-tags:
+# Leave the homepage title empty to use the site title
+title: 
+date: 2023-10-24
+type: landing
   
-external_link: ""
-links:
-  - url: https://github.com
-    name: GitHub
-    icon_pack: fab
-    icon: github
-image:
-  filename: paper5.jpg
-  focal_point: Smart
-  preview_only: true
+sections:
+  - block: hero
+    content:
+      title: |
+        Qiskit Fall Fest at IIT Jodhpur
+      image:
+        filename: FallFestcopy.jpg
+      text: |
+        <br>
+        <div style="text-align: justify;">
+         Qiskit Fall Fest is a series of events that brings together students who are interested in the exciting field of quantum information. The week of festivities includes workshops for people who are new to Qiskit, coding challenges for a range of skill levels.
+        </div>
+
+  - block: markdown
+    content:
+      title: Who can Participate ?
+      image: 
+        filename: Blog-Image_02.png
+      text: |
+        <br>
+        <div style="text-align: justify;">
+          Anyone interested in quantum computing can participate in the Qiskit Fall Fest, including students, researchers, and industry professionals. Whether you’re a newcomer or a seasoned veteran, there is something here for you. It consists of a series of Jupyter notebooks that contain tutorial material, code examples, and auto-graded coding challenges. This year’s challenge will showcase the new features of Qiskit 1.0, while demonstrating the differences from previous versions. We hope it will help you better understand what it means to do utility-scale experiments with Qiskit — those with 100 or more qubits — and practice the steps to get there.
+        </div>
+
+  - block: markdown
+    content:
+      title: Where ? How ? When ?
+      image:
+        filename: Blog-Image_01.png
+      text: |
+        <br>
+        <div style="text-align: justify;">
+        
+        - **At IIT Jodhpur**
+          - Series of workshops starting from basics of quantum mechanics to quantum computing and not limited to Introduction of Quantum Machine Learning. 
+          - Most workshops will be in offline mode and few industry talks will be online.
+          - There will be live Quantum Hackathon along with closing ceremony.
+
+        - **Schedule:**
+          - First 3 weeks of October.
+          - 11AM every weekend.
+
+        - **Register here:**
+          - It is mandatory to fill the Google form for registration.
+
+        </div>
+  
+  - block: markdown
+    content:
+      title: What's Happening ?
+      image:
+        filename: Crop_04.png
+      text: |
+        <br>
+        <div style="text-align: justify;">
+        
+         - **Quantum Mechanics :**
+          - Linear algebra for Quantum Mechanics.
+          - Basics of Quantum Mechanics.
+      
+        - **Quantum Computing:**
+          - Introduction to Quantum computing and Qiskit implementations.
+          - Superposition, Entanglement, and Quantum teleportation.
+      
+        - **Quantum Algorithm :**
+          - Quantum parallelism and Supremacy over classical.
+          - Deutsch-Jozsa Algorithm theory and implementation.
+      
+        - **Qiskit Quantum Hackathon:**
+          - Coding Hackathon with Qiskit Grader.
+    
+        </div>
+        
+  - block: markdown
+    content:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
 ---
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-  
-<!-- # Contents
-<nav>
-  <ul>
-	  <li><a href="#section1">Introduction</a></li>
-	  <li><a href="#section2">Quantum Mechanics</a></li>
-    <li><a href="#section3">Quantum Computing</a></li>
-    <li><a href="#section4">Quantum Algorithms</a></li>
-    <li><a href="#section5">Quantum Machine learning </a></li>
-    <li><a href="#section6">Closing Ceremony</a></li>
-   
-  </ul>
-</nav> -->
-
-![](vehicle.gif)
-
-
-<section id="section1">
-  <h2>What is Qiskit Fall Fest ?</h2>
-	
-  <p>
-
-Qiskit Fall Fest is a collection of quantum computing events that invites students, researchers and industry professionals around the world to participate in a wide array of quantum-themed activities, ranging from quantum challenges, hackathons, and coding competitions to workshops, social events, and more.
-
-  </p>
-</section>
-
-
-
-<section id="section2">
-  <h2>Who can Participate ?</h2>
-  <p>
-    
-content need to be updated ...
-    
-  </p>
-</section>
-
-<section id="section3">
-  <h2>When ? Where ? How ?</h2>
-  <p>
-    
- 
-content need to be updated ...
-
-  </p>
-</section>
-
- 
- 
-  
-<section id="section9">
-  <h2>Important links</h2>
-  <p>
-    
-- [IBM Qiskit ](https://arxiv.org/abs/1411.4028/)
-- [Our Linkedin Page](https://github.com/Qiskit/qiskit-optimization/blob/59d293d9d258eb3e8d780804252c1bdf5553e339/docs/tutorials/06_examples_max_cut_and_tsp.ipynb/)
-- [Registration](https://www.semanticscholar.org/paper/Integer-Programming-Formulation-of-Traveling-Miller-Tucker/f310643a22ec50a74a64f6203932b9407215d964/)
- 
-  </p>
-</section>
-
-<a id="scroll-to-top" href="#top">&#8593;</a>
-
-<script>
-window.addEventListener('DOMContentLoaded', function() {
-  var scrollToTop = document.getElementById('scroll-to-top');
-
-  window.addEventListener('scroll', function() {
-    if (window.pageYOffset > 200) { // Adjust the value (200) as needed
-      scrollToTop.style.display = 'block';
-    } else {
-      scrollToTop.style.display = 'none';
-    }
-  });
-
-  scrollToTop.addEventListener('click', function(e) {
-    e.preventDefault();
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  });
-});
-</script>
-
-</body>
-</html>
