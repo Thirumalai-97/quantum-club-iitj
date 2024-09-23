@@ -39,6 +39,9 @@ image:
   </ul>
 </nav> -->
 
+![](vehicle.gif)
+
+
 <section id="section1">
   <h2>What is Qiskit Fall Fest ?</h2>
 	
