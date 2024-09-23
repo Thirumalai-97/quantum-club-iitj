@@ -7,10 +7,7 @@ summary: .
 draft: false
 featured: true
 tags:
-  - Quantum Project
-  - Communication
-  - Quantum Algorithm
-  - Featured
+  
 external_link: ""
 links:
   - url: https://github.com
@@ -42,14 +39,13 @@ image:
   </ul>
 </nav> -->
 
-e[](paper6.jpg)
 <section id="section1">
   <h2>What is Qiskit Fall Fest ?</h2>
   
-  <table align="center" style="width: 100vw; margin: 0; padding: 0;">
-  <caption>IBM Quantum Event </caption>
+  <table align="center">
+  <caption>IBM Quantum Event</caption>
   <tr>
-    <td><img src="asset/mdeia/paper5.jpg" alt="On Simulator [qasm]" width="100%"></td>
+    <td><img src="asset/mdeia/paper5.jpg" alt="" width="100%"></td>
     
   </tr>
 </table>
