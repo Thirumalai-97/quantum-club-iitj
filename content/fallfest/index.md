@@ -51,7 +51,7 @@ sections:
 
         </div>
   
-  - block: hero
+  - block: markdown
     content:
       title: What's Happening ?
       image:
