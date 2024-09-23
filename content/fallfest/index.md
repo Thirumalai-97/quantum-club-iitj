@@ -41,16 +41,7 @@ image:
 
 <section id="section1">
   <h2>What is Qiskit Fall Fest ?</h2>
-  
-  <table align="center">
-  <caption>IBM Quantum Event</caption>
-  <tr>
-    <td><img src="asset/mdeia/paper5.jpg" alt="" width="100%"></td>
-    
-  </tr>
-</table>
-
-
+	
   <p>
 
 Qiskit Fall Fest is a collection of quantum computing events that invites students, researchers and industry professionals around the world to participate in a wide array of quantum-themed activities, ranging from quantum challenges, hackathons, and coding competitions to workshops, social events, and more.
