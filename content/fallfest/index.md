@@ -55,7 +55,7 @@ sections:
     content:
       title: What's Happening ?
       image:
-        filename: qiskit4.jpg
+        filename: 
       text: |
         <br>
         <div style="text-align: justify;">
