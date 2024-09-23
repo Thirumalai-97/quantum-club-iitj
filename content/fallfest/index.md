@@ -77,10 +77,5 @@ sections:
     
         </div>
         
-  - block: markdown
-    content:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+    
 ---
