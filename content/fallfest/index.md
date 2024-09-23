@@ -17,7 +17,7 @@ sections:
          Qiskit Fall Fest is a series of events that brings together students who are interested in the exciting field of quantum information. The week of festivities includes workshops for people who are new to Qiskit, coding challenges for a range of skill levels.
         </div>
 
-  - block: markdown
+  - block: hero
     content:
       title: Who can Participate ?
       image: 
@@ -28,7 +28,7 @@ sections:
           Anyone interested in quantum computing can participate in the Qiskit Fall Fest, including students, researchers, and industry professionals. Whether you’re a newcomer or a seasoned veteran, there is something here for you. It consists of a series of Jupyter notebooks that contain tutorial material, code examples, and auto-graded coding challenges. This year’s challenge will showcase the new features of Qiskit 1.0, while demonstrating the differences from previous versions. We hope it will help you better understand what it means to do utility-scale experiments with Qiskit — those with 100 or more qubits — and practice the steps to get there.
         </div>
 
-  - block: markdown
+  - block: hero
     content:
       title: Where ? How ? When ?
       image:
@@ -51,7 +51,7 @@ sections:
 
         </div>
   
-  - block: markdown
+  - block: hero
     content:
       title: What's Happening ?
       image:
@@ -60,7 +60,7 @@ sections:
         <br>
         <div style="text-align: justify;">
         
-         - **Quantum Mechanics :**
+        - **Quantum Mechanics :**
           - Linear algebra for Quantum Mechanics.
           - Basics of Quantum Mechanics.
       
