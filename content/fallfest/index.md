@@ -21,7 +21,7 @@ sections:
     content:
       title: Who can Participate ?
       image: 
-        filename: Blog-Image_02.png
+        filename: qiskit1.jpg
       text: |
         <br>
         <div style="text-align: justify;">
@@ -32,7 +32,7 @@ sections:
     content:
       title: Where ? How ? When ?
       image:
-        filename: Blog-Image_01.png
+        filename: qiskit3.jpg
       text: |
         <br>
         <div style="text-align: justify;">
@@ -55,7 +55,7 @@ sections:
     content:
       title: What's Happening ?
       image:
-        filename: Crop_04.png
+        filename: qiskit4.jpg
       text: |
         <br>
         <div style="text-align: justify;">
