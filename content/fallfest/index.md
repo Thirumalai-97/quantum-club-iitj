@@ -10,7 +10,7 @@ sections:
       title: |
         Qiskit Fall Fest at IIT Jodhpur
       image:
-        filename: FallFestcopy.jpg
+        filename: site1.jpg
       text: |
         <br>
         <div style="text-align: justify;">
