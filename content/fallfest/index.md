@@ -21,7 +21,7 @@ sections:
     content:
       title: Who can Participate ?
       image: 
-        filename: qiskit1.jpg
+        filename: FallFestcopy.jpg
       text: |
         <br>
         <div style="text-align: justify;">
