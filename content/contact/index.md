@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         
-      email: gqc.iitj@gmail.com
+      
       phone: 
       address:
         street: Indian Institute of Technology Jodhpur, Karwar
@@ -38,7 +38,7 @@ sections:
         - icon: linkedin
           icon_pack: fab
           name: LinkedIn
-          link: https://www.linkedin.com/company/qcig/'
+          link: https://www.linkedin.com/company/quantum-club-iitj/'
     # - icon: comments
     #  icon_pack: fas
     # name: Discuss on Forum
