@@ -3,7 +3,7 @@
 title: QCIG Team
 
 # Full Name (for SEO)
-first_name: QCIG
+first_name: Quantum Club Team 
 last_name: Team
 
 # Is this the primary user of the site?
