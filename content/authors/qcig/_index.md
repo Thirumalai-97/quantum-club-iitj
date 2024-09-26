@@ -31,10 +31,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'gqc.iitj@gmail.com'
+    link: ''
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/company/qcig/?originalSubdomain=in
+    link: https://www.linkedin.com/company/quantum-club-iitj/
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
