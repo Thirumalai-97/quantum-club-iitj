@@ -13,9 +13,15 @@ sections:
         filename: site1.jpg
       text: |
         <br>
+      
         <div style="text-align: justify;">
          Qiskit Fall Fest is a series of events that brings together students who are interested in the exciting field of quantum information. The week of festivities includes workshops for people who are new to Qiskit, coding challenges for a range of skill levels.
+    
+       
+
+
         </div>
+      
 
   - block: hero
     content:
@@ -48,6 +54,11 @@ sections:
 
         - **Register here:**
           - It is mandatory to fill the Google form for registration.
+      links:
+  - url: https://forms.gle/Xd1Lbb2fVgsExmRU9
+    name: Google Form
+    icon_pack: fab
+    icon: user
 
         </div>
   
