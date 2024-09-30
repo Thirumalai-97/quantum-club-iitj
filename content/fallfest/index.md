@@ -57,6 +57,7 @@ sections:
         - **Schedule:**
           - Starts from October 2, 2024.
           - Check Schedule for more details..
+          - Venue details will be mailed for registered candidates.
 
         - **Register here:**  [Google form](https://forms.gle/Xd1Lbb2fVgsExmRU9)
           - It is mandatory to fill the Google form for registration.
