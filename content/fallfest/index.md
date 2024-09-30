@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Qiskit Fall Fest at IIT Jodhpur
+        Qiskit Fall Fest at IIT Jodhpur - Register now at [Google form](https://forms.gle/Xd1Lbb2fVgsExmRU9)
       links:
         url: https://forms.gle/Xd1Lbb2fVgsExmRU9
         name: Google Form
