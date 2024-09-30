@@ -43,7 +43,7 @@ sections:
     content:
       title: Where ? How ? When ?
       image:
-        filename: qiskit3.jpg
+        filename: schedule.jpg
       text: |
     
         <br>
@@ -55,8 +55,8 @@ sections:
           - There will be live Quantum Hackathon along with closing ceremony.
 
         - **Schedule:**
-          - First 3 weeks of October.
-          - 11AM every weekend.
+          - Starts from October 2, 2024.
+          - Check Schedule for more details..
 
         - **Register here:**  [Google form](https://forms.gle/Xd1Lbb2fVgsExmRU9)
           - It is mandatory to fill the Google form for registration.
