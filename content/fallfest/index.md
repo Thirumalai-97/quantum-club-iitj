@@ -9,6 +9,11 @@ sections:
     content:
       title: |
         Qiskit Fall Fest at IIT Jodhpur
+      links:
+        url: https://forms.gle/Xd1Lbb2fVgsExmRU9
+        name: Google Form
+        icon_pack: fab
+        icon: user
       image:
         filename: site1.jpg
       text: |
@@ -40,6 +45,7 @@ sections:
       image:
         filename: qiskit3.jpg
       text: |
+    
         <br>
         <div style="text-align: justify;">
         
@@ -54,11 +60,7 @@ sections:
 
         - **Register here:**
           - It is mandatory to fill the Google form for registration.
-      links:
-  - url: https://forms.gle/Xd1Lbb2fVgsExmRU9
-    name: Google Form
-    icon_pack: fab
-    icon: user
+     
 
         </div>
   
