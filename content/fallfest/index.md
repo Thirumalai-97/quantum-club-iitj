@@ -58,7 +58,7 @@ sections:
           - First 3 weeks of October.
           - 11AM every weekend.
 
-        - **Register here:**
+        - **Register here:**  [Google form](https://forms.gle/Xd1Lbb2fVgsExmRU9)
           - It is mandatory to fill the Google form for registration.
      
 
