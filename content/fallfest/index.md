@@ -82,9 +82,9 @@ sections:
           - Introduction to Quantum computing and Qiskit implementations.
           - Superposition, Entanglement, and Quantum teleportation.
       
-        - **Quantum Algorithm :**
-          - Quantum parallelism and Supremacy over classical.
-          - Deutsch-Jozsa Algorithm theory and implementation.
+        - **Transpilation and VQE :**
+          - Transpilation of Quantum circuits and running it on Quantum Hardware.
+          - VQE method and implementation.
       
         - **Qiskit Quantum Hackathon:**
           - Coding Hackathon with Qiskit Grader.
