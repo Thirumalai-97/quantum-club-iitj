@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Qiskit Fall Fest at IIT Jodhpur - Register now at [Google form](https://forms.gle/Xd1Lbb2fVgsExmRU9)
+        Qiskit Fall Fest at IIT Jodhpur - Registration has been closed
       links:
         url: https://forms.gle/Xd1Lbb2fVgsExmRU9
         name: Google Form
@@ -59,8 +59,7 @@ sections:
           - Check Schedule for more details..
           - Venue details will be mailed for registered candidates.
 
-        - **Register here:**  [Google form](https://forms.gle/Xd1Lbb2fVgsExmRU9)
-          - It is mandatory to fill the Google form for registration.
+        
      
 
         </div>
